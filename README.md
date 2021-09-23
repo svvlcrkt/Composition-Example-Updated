@@ -14,7 +14,7 @@ Now I am learning <b>React</b> and I am trying to make a project with the help o
 * *React - The Complete Guide (incl Hooks, React Router, Redux) course from Udemy*
 
 ## *My Notes*
-* *Differences between this project and Composition-Example project are arrow functions, organizing component files.*
+* *Differences between this project and Composition-Example project are arrow functions and organizing component files.*
 
 ### *PROJECT VİEW:*
 
